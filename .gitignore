@@ -1,0 +1,28 @@
+# Dataset
+dataset/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Training cache
+results/cache/
+
+# Training checkpoints (not needed for inference)
+results/checkpoints/
+
+# Temporary files
+*.log
+*.tmp
+
+# Environment
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
